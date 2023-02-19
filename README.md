@@ -12,7 +12,7 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 
------------------------------> Data Loading and Power Query Documentation -------------------------------------->
+-----------------------------> **Data Loading and Power Query Documentation** -------------------------------------->
 
 
 1. Create a folder in Desktop and store all the csv files related to hospitality challenge.
@@ -24,7 +24,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 4. Now, duplicate the data source 4 times and in each one, expand one dataset by clicking on "Binary" option. also, rename 
    the tables accordingly.
 
-*****************  Power Query steps for tables:  *******************
+----------------------------->  **Power Query steps for tables:**  -------------------------------------->
 1. dim_date:
 	- remove the column 'day_type'
 	- we are deleting this because, we got a feedback from the mock dashboard review that Friday and Saturday are           
